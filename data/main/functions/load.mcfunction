@@ -7,6 +7,3 @@ scoreboard players set head_trader_datapack modulo 5
 
 scoreboard players set head_trader_datapack rand_trader_cnt 0
 scoreboard players set head_trader_datapack rand_trader_gen 0
-
-# Debug
-scoreboard objectives setdisplay sidebar rand_trader_gen
