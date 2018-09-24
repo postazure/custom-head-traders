@@ -1,7 +1,7 @@
 # Custom Head Traders
 
 This is a datapack for Minecraft 1.13+ allows "Nitwit" villagers to trade for
-player heads with custom textures.
+player heads with custom textures. This will automatically convert Nitwits that spawn in the world naturally.
 
 All player head textures used in this datapack from [minecraft-heads](https://minecraft-heads.com).
 
